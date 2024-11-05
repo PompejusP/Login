@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FIA_44_Programmieren\\Web_FIA44_Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CCDE40-9020-4D49-B839-B204F66959ED}|Web_FIA44_Login\\Web_FIA44_Login.csproj|e:\\fia_44_programmieren\\web_fia44_login\\web_fia44_login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6CCDE40-9020-4D49-B839-B204F66959ED}|Web_FIA44_Login\\Web_FIA44_Login.csproj|solutionrelative:web_fia44_login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CCDE40-9020-4D49-B839-B204F66959ED}|Web_FIA44_Login\\Web_FIA44_Login.csproj|e:\\fia_44_programmieren\\web_fia44_login\\web_fia44_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CCDE40-9020-4D49-B839-B204F66959ED}|Web_FIA44_Login\\Web_FIA44_Login.csproj|solutionrelative:web_fia44_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CCDE40-9020-4D49-B839-B204F66959ED}|Web_FIA44_Login\\Web_FIA44_Login.csproj|e:\\fia_44_programmieren\\web_fia44_login\\web_fia44_login\\views\\home\\intern.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6CCDE40-9020-4D49-B839-B204F66959ED}|Web_FIA44_Login\\Web_FIA44_Login.csproj|solutionrelative:web_fia44_login\\views\\home\\intern.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CCDE40-9020-4D49-B839-B204F66959ED}|Web_FIA44_Login\\Web_FIA44_Login.csproj|e:\\fia_44_programmieren\\web_fia44_login\\web_fia44_login\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CCDE40-9020-4D49-B839-B204F66959ED}|Web_FIA44_Login\\Web_FIA44_Login.csproj|solutionrelative:web_fia44_login\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CCDE40-9020-4D49-B839-B204F66959ED}|Web_FIA44_Login\\Web_FIA44_Login.csproj|e:\\fia_44_programmieren\\web_fia44_login\\web_fia44_login\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6CCDE40-9020-4D49-B839-B204F66959ED}|Web_FIA44_Login\\Web_FIA44_Login.csproj|solutionrelative:web_fia44_login\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CCDE40-9020-4D49-B839-B204F66959ED}|Web_FIA44_Login\\Web_FIA44_Login.csproj|e:\\fia_44_programmieren\\web_fia44_login\\web_fia44_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CCDE40-9020-4D49-B839-B204F66959ED}|Web_FIA44_Login\\Web_FIA44_Login.csproj|solutionrelative:web_fia44_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 178,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\FIA_44_Programmieren\\Web_FIA44_Login\\Web_FIA44_Login\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Web_FIA44_Login\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "E:\\FIA_44_Programmieren\\Web_FIA44_Login\\Web_FIA44_Login\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Web_FIA44_Login\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:26:47.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\FIA_44_Programmieren\\Web_FIA44_Login\\Web_FIA44_Login\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Web_FIA44_Login\\Views\\Home\\Login.cshtml",
+              "ToolTip": "E:\\FIA_44_Programmieren\\Web_FIA44_Login\\Web_FIA44_Login\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Web_FIA44_Login\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:26:10.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Intern.cshtml",
+              "DocumentMoniker": "E:\\FIA_44_Programmieren\\Web_FIA44_Login\\Web_FIA44_Login\\Views\\Home\\Intern.cshtml",
+              "RelativeDocumentMoniker": "Web_FIA44_Login\\Views\\Home\\Intern.cshtml",
+              "ToolTip": "E:\\FIA_44_Programmieren\\Web_FIA44_Login\\Web_FIA44_Login\\Views\\Home\\Intern.cshtml",
+              "RelativeToolTip": "Web_FIA44_Login\\Views\\Home\\Intern.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:25:53.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\FIA_44_Programmieren\\Web_FIA44_Login\\Web_FIA44_Login\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web_FIA44_Login\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\FIA_44_Programmieren\\Web_FIA44_Login\\Web_FIA44_Login\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web_FIA44_Login\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:24:37.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FIA_44_Programmieren\\Web_FIA44_Login\\Web_FIA44_Login\\Program.cs",
+              "RelativeDocumentMoniker": "Web_FIA44_Login\\Program.cs",
+              "ToolTip": "E:\\FIA_44_Programmieren\\Web_FIA44_Login\\Web_FIA44_Login\\Program.cs",
+              "RelativeToolTip": "Web_FIA44_Login\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:22:14.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\FIA_44_Programmieren\\Web_FIA44_Login\\Web_FIA44_Login\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_FIA44_Login\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\FIA_44_Programmieren\\Web_FIA44_Login\\Web_FIA44_Login\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web_FIA44_Login\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:21:55.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
